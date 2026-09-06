@@ -1,0 +1,1 @@
+In order for this to work, IDM must be saying "The main IDM executive is corrupted." or so and only in English. When you launch either the shortcut or the .ahk, it will automatically click the Continue downloading, bypassing the timer.
